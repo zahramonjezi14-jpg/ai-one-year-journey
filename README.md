@@ -1,2 +1,2 @@
 # ai-one-year-journey
-my first
+my journey to becoming an AI Engineer and AI Researcher
